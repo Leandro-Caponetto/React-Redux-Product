@@ -1,0 +1,4 @@
+/** @format */
+
+export const OBTENER_INFO_SUCCESS = "OBTENER_INFO_SUCCESS";
+export const OBTENER_INFO_FAIL = "OBTENER_INFO_SUCCESS";
